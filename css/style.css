@@ -298,8 +298,12 @@ hr {
 }
 
     #links .link {
-        padding: 20px 10px;
+        padding: 20px 20px;
     }
+
+#links .link:hover {
+    background: #cecece;
+}
 
     #links h3 {
         font-size: 20px;
@@ -307,7 +311,7 @@ hr {
     }
 
 #links i.fa {
-    font-size: 36px;
+    font-size: 96px;
     color: #E75926;
     transition: all 0.5s;
 }
