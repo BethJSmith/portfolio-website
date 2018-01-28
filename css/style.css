@@ -301,9 +301,9 @@ hr {
         padding: 20px 20px;
     }
 
-#links .link:hover {
-    background: #cecece;
-}
+        #links .link:hover {
+            background: #f6f6f6;
+        }
 
     #links h3 {
         font-size: 20px;
